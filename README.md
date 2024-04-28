@@ -8,6 +8,6 @@
 
 ## Grabación explicando el procesamiento de datos
 
-https://www.youtube.com/watch?v=qBNmhcCQbrM
+https://www.youtube.com/watch?v=aaMRHYcg3jI
 
 
