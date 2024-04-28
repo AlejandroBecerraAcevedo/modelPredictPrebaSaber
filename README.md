@@ -6,7 +6,7 @@
 
 
 
-## Grabación exxplicando el procesamiento de datos
+## Grabación explicando el procesamiento de datos
 
 https://www.youtube.com/watch?v=qBNmhcCQbrM
 
