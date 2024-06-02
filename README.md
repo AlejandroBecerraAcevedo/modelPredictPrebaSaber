@@ -10,4 +10,8 @@
 
 https://www.youtube.com/watch?v=aaMRHYcg3jI
 
+#### Grabación entrega final con SVC de Python:
+
+https://www.youtube.com/watch?v=FQt3c-Vk2d8
+
 
